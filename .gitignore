@@ -1,4 +1,3 @@
-Note
 *.pdf
 *.md
-!ENV.md
+!Note/ENV.md
