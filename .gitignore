@@ -1,3 +1,4 @@
 *.pdf
 *.md
+*.json
 !Note/ENV.md
