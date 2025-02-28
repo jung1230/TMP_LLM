@@ -109,12 +109,6 @@ TMP Form Version 2.0 TMP ID: 7554 - Current Version
 
 This project involves reconstructing pedestrian curb ramps at 23 different intersections throughout Sauk County to meet ADA standards. Specific locations are shown in the attached project location maps and include intersections in the following three communities: 14 intersections along WIS 23 and WIS 33 in Reedsburg, 3 intersections along WIS 154 in Rock Springs, 6 intersections along WIS 33, WIS 113, and WIS 136 in Baraboo. A work zone impact assessment was conducted and is summarized in the attached documents. The curb ramp reconstruction work will be completed under a mix of staging/traffic control options including short term travel lane closures, turn lane closures, shoulder closures, private driveway closures, single travel lane with flagging operations, and/or parking restrictions (see Section 9 on this TMP). Travel lane closures are limited to non-peak hours only (weekdays 9:00am to 3:00pm). Pedestrians will be accommodated using signed detours, temporary crossings, or temporary at-corner sidewalk. Work at the 23 project intersections is scheduled for 2020 (September 4 - November 2). Additional locations will be reconstructed in 2021 as part of a separate project. A separate TMP will be prepared for the 2021 project.
 
-## **Section Comments**
-
-I sent an updated WZIA to Chris for this project. That needs to be updated prior to 60% approval. (By Joe Schneider on 02 /27/2020 11:04 AM)
-
-Ok, just saw that it was attached below. Please move it to this section. (By Joe Schneider on 02/27/2020 11:05 AM)
-
 # **Section 3 - Existing Conditions**
 
 | Within the project limits, are there:    |     |  |  |  |
@@ -159,12 +153,6 @@ List of chosen strategies:
 | Parking<br>Restrictions                                     | See Sections 2 and 9 for more information.                                                                                                                                                                                                                                                                                             | \$0    |
 
 Cost of chosen strategies (sum of strategy costs): \$7300
-
-## **Section Comments**
-
-As you get further with the estimate on this project please add cost information to this table. You should have the costs for the temp pedestrian accommodations along with the traffic control costs. (By Joe Schneider on 02/20/2020 08:58 AM)
-
-I would think you would have additional cost info to add here (By Joe Schneider on 03/16/2020 02:23 PM)
 
 ## **Section 5 - Work Zone Impacts**
 
@@ -238,12 +226,6 @@ Some delay will occur with the proposed lane closures and flagging operations bu
 
 No temporary or permanent traffic control changes are proposed.
 
-## **Section Comments**
-
-For flagging operations you can use a capacity of 600 vphpl. For single lane closures in a signalized corridor (assuming multi lane roadway) you would use 900 vphpl. (By Joe Schneider on 02/20/2020 09:01 AM)
-
-Once details for the temp ped accommodations are put together the impact to the roadway will be clearer and we should be able to look at each intersection and determine what the specific time restrictions, if any, are needed. (By Joe Schneider on 02/20/2020 09:03 AM)
-
 # **Section 7 - Public Information Strategies**
 
 List of chosen strategies:
@@ -263,10 +245,6 @@ List of chosen strategies:
 | Standard RIMC<br>Process                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                           | \$0  |
 
 Cost of chosen strategies (sum of strategy costs): \$0
-
-## **Section Comments**
-
-Standard RIMC process (By Joe Schneider on 02/20/2020 09:03 AM)
 
 # **Section 9 - Staging Plans**
 
@@ -289,14 +267,6 @@ Crossings and ramps will be closed (for up to 14 days) at project intersections 
 | 3 | WIS 154 EB from PARK ST to<br>COUNTY DD            | 11                                 | 11                                   |                       |                                  |
 | 4 | WIS 136 EB from SAUK CO<br>GARAGE DRWY to US 12 WB | 11                                 | 11                                   |                       |                                  |
 | 5 | WIS 113 SB from 1ST AVE to WIS<br>113              | 11                                 | 11                                   |                       |                                  |
-
-#### **Section Comments**
-
-In your staging summary you list out 10' travel lanes, we have a minimum 11' travel lane. I also don't want to say that the contractor is responsible to developing the traffic control plan. That is our responsibility. If you want to refer to SDD's and list hour restrictions that is fine. I would prefer we show a plan sheet for each intersection that shows both the temp ped accommodations along with roadway traffic control. (By Joe Schneider on 02/20/2020 09:08 AM)
-
-As stated in the plan review, we should have details at each intersection for the curb ramp work, I don't think an SDD is adequate as not all locations have a grid or adjacent crossings as an option. We are better off dealing with this now in design vs trying to deal with it in construction when we really have no way of adjusting. This leads to non ADA compliant accommodations. (By Joe Schneider on 02/20/2020 09:10 AM)
-
-Attach flagging sheet as well (By Joe Schneider on 03/16/2020 02:51 PM)
 
 ## **Attachments**
 
