@@ -1,6 +1,7 @@
 *.pdf
 *.md
 *.json
+*.zip
 !Note/ENV.md
 !test_input/*
 !test_output/*
