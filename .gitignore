@@ -4,3 +4,4 @@
 *.zip
 *.exe
 !Note/ENV.md
+!data/dataset_info.json
