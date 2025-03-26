@@ -5,3 +5,4 @@
 *.exe
 !Note/ENV.md
 !data/dataset_info.json
+!Run LLama Factory.md
