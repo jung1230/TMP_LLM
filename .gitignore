@@ -4,5 +4,5 @@
 *.zip
 *.exe
 !Note/ENV.md
-!data/dataset_info.json
+!data(TMP)/dataset_info.json
 !Run LLama Factory.md
