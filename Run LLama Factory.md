@@ -1,6 +1,6 @@
 # finetune 
 
-CUDA_VISIBLE_DEVICES=0 llamafactory-cli train \
+CUDA_VISIBLE_DEVICES=1 llamafactory-cli train \
     --stage sft \
     --do_train \
     --model_name_or_path /home/sky-lab/codes/Llama-3.1-8B-Instruct \
@@ -8,7 +8,7 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train \
     --dataset_dir /home/sky-lab/Alan/TMP_LLM/data \
     --template llama3 \
     --finetuning_type lora \
-    --output_dir /home/Alan/TMP_LLM/saves/LLaMA3.1-8B_v1-1/lora/sft_2025-03-24 \
+    --output_dir /home/sky-lab/Alan/TMP_LLM/saves/LLaMA3.1-8B_v1-1/lora/sft_2025-03-30 \
     --overwrite_cache \
     --overwrite_output_dir \
     --cutoff_len 4096 \
@@ -23,7 +23,7 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train \
     --eval_steps 50 \
     --evaluation_strategy steps \
     --load_best_model_at_end \
-    --learning_rate 5e-5 \
+    --learning_rate 1e-5 \
     --num_train_epochs 15.0 \
     --val_size 0.1 \
     --plot_loss \
@@ -69,5 +69,4 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train \
     --per_device_eval_batch_size 1 \
     --max_samples 20 \
     --predict_with_generate
-
 
